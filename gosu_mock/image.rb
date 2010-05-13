@@ -55,7 +55,7 @@ module Gosu
     
     
     # Methods for testing
-    attr_reader :drawing_events
+    attr_reader :drawing_events, :filename, :data, :label
     
     
     private
